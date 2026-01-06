@@ -17,5 +17,6 @@ Projects Included
 How to Use
 
 1. Clone the repository:
-```bash
-git clone https://github.com/YourUsername/OIBSIP.git
+```bash git clone https://github.com/YourUsername/OIBSIP.git
+2. Open the project folder you want to try.
+3. Follow the instructions in each project's README file to run the program.
